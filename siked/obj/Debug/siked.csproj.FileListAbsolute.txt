@@ -1,0 +1,13 @@
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.Form1.resources
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.Properties.Resources.resources
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.csproj.GenerateResource.cache
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\bin\Debug\siked.exe.config
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\bin\Debug\siked.exe
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\bin\Debug\siked.pdb
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.csproj.CopyComplete
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.exe
+D:\Kuliah\Semester 4\PBO_SIKED\siked\siked\obj\Debug\siked.pdb
